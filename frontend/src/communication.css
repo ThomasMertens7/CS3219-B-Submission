@@ -1,0 +1,130 @@
+body {
+    background-color: #282c34;
+    color: white;
+    padding: 40px;
+    font-family: Arial;
+    text-align: center;
+  }
+
+.button {
+    background-color: #61dafb;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+
+  .button:hover {
+    background-color: #61dafb;
+    color: white;
+  }
+
+  .button:active {
+    background-color: #61dafb;
+    color: white;
+  }
+
+  .button:focus {
+    background-color: #61dafb;
+    color: white;
+  }
+
+  .button:visited {
+    background-color: #61dafb;
+    color: white;
+  }
+
+  .button:link {
+    background-color: #61dafb;
+    color: white;
+  }
+
+  .button:disabled {
+    background-color: #61dafb;
+    color: white;
+  }
+
+  .button:enabled {
+    background-color: #61dafb;
+    color: white;
+  }
+
+  .button:active {
+    background-color: #61dafb;
+    color: white;
+  }
+
+  .button:visited {
+    background-color: #61dafb;
+    color: white;
+  }
+
+  .button:link {
+    background-color: #61dafb;
+    color: white;
+  }
+
+  .button:disabled {
+    background-color: #61dafb;
+    color: white;
+  }
+
+  .button:enabled {
+    background-color: #61dafb;
+    color: white;
+  }
+
+  .button:active {
+    background-color: #61dafb;
+    color: white;
+  }
+
+  .button:visited {
+    background-color: #61dafb;
+    color: white;
+  }
+
+  .button:link {
+    background-color: #61dafb;
+    color: white;
+  }
+
+  .button:disabled {
+    background-color: #61dafb;
+    color: white;
+  }
+
+  .button:enabled {
+    background-color: #61dafb;
+    color: white;
+  }
+
+  .button:active {
+    background-color: #61dafb;
+    color: white;
+  }
+
+  .button:visited {
+    background-color: #61dafb;
+    color: white;
+  }
+
+.form-select {
+    background-color: #a67c00;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+}
